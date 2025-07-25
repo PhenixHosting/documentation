@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>PhenixHosting.eu</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://phenixhosting.eu',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.com/sqvEf239AV',
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Copyright by Phenixhosting.eu | Powered by Nextra Docs',
   },
 }
 
