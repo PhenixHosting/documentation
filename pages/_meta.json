@@ -3,13 +3,14 @@
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
   "about": {
-    "title": "About",
-    "type": "page"
+    "title": "Home",
+    "type": "page",
+    "href": "https://phenixhosting.eu",
   },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://discord.gg/sqvEf239AV",
     "newWindow": true
   }
 }
