@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.com/sqvEf239AV',
   },
-  docsRepositoryBase: 'https://github.com/phenixhosting/documentation',
+  docsRepositoryBase: 'https://github.com/PhenixHosting/documentation',
   footer: {
     text: 'Copyright by Phenixhosting.eu | Powered by Nextra Docs',
   },
